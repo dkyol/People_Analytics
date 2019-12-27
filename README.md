@@ -1,7 +1,12 @@
 # deep_learning
-MLP (dense) model built with numpy library 
+MLP (dense) model built with numpy lib
 
-Model contains forward propagation, back propagation, training, and run model functions to build a dense, three later model
+The primary objectives of this project are the following:
 
-Model attempts to predict the number of federal employees that elect to leave a role in a given month
+    1.) Demonstrate simple three layer fully connected (dense) neural network using the numpy lib implementing the math behind popular frameworks Kera, PyTorch  
+    
+    2.) Develop intution for the predictive value of publically available dataset for forecasting the number of employees that leave the workforce by month 
+
+
+
 
