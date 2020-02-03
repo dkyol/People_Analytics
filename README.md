@@ -1,12 +1,14 @@
 # deep_learning
 Multi-Layer Perceptron (MLP) 3 -Layers, 1 Output Node
 
-The primary objectives of this project are the following:
+The goal is to develop a MVP that consists of the following:
 
-    1.) Demonstrate simple three layer fully connected (dense) neural network using the numpy lib implementing the math behind popular frameworks Kera, PyTorch  
-    
-    
-    2.) Develop intuition for the predictive value of publically available dataset for forecasting the number of employees that leave the workforce by month 
+1. Demonstrate three layer densely connected MLP
+
+2. Develop framework for predicting voluntary separations of federal employees by time period, using pulically avaialable dataset 
+
+3. Host model on AWS using flask framework to display results
+
 
 
 
