@@ -1,0 +1,47 @@
+aws-elastic-beanstalk-configuration
+
+1. sudo yum install git
+
+2. git clone https://github.com/aws/aws-elastic-beanstalk-cli-setup
+
+3. cd aws-elastic-beanstalk-cli-setup.git
+
+4. cd Scripts
+
+5. sudo yum install libffi-devel
+
+6. ./bundled_installer (this installs python 3.7)
+
+7. git clone https://github.com/dkyol/deep_learning.git
+
+8. cd- unzip files 
+
+9. sudo pip install pandas, flask, tensorflow, plotly
+
+10. python application.py
+
+11. pip install awsebcli --upgrade --user (this install elastic beanstalk command line)
+
+12. aws configure
+
+		13.git init (Source code commit
+
+14. eb init name (creates application) slected new app not the one i remoted into
+
+(region)
+
+(create new application: name application)
+
+(Created new repository?)
+
+15.eb create/ eb deploy
+
+======================================================
+
+/home/ec2-user/aws-elastic-beanstalk-cli-setup/scripts/deep_learning/Opm_Web_App
+
+file contents
+
+
+=======================================================
+
