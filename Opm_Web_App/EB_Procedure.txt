@@ -16,7 +16,7 @@ aws-elastic-beanstalk-configuration
 
 8. cd- unzip files 
 
-9. sudo pip install pandas, flask, tensorflow, plotly
+9. sudo pip install required packages (demo app locally)
 
 10. python application.py
 
@@ -24,23 +24,19 @@ aws-elastic-beanstalk-configuration
 
 12. aws configure
 
-		13.git init (Source code commit
+13.git init (Source code commit
 
-14. eb init name (creates application) slected new app not the one i remoted into
+14. eb init name (creates application) 
 
-(region)
+	(region)
 
-(create new application: name application)
-
-(Created new repository?)
+	(create new application: name application)
 
 15.eb create/ eb deploy
 
 ======================================================
 
 /home/ec2-user/aws-elastic-beanstalk-cli-setup/scripts/deep_learning/Opm_Web_App
-
-file contents
 
 
 =======================================================
