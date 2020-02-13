@@ -1,13 +1,21 @@
-# deep_learning
-Multi-Layer Perceptron (MLP) 3 -Layers, 1 Output Node
 
-The goal is to develop a MVP that consists of the following:
+### Multi-Layer Perceptron (MLP)
 
-1. Demonstrate three layer densely connected MLP
+***
 
-2. Develop framework for predicting voluntary separations of federal employees by time period, using pulically avaialable dataset 
+#### Initial operating capability model and deployeable web app:
 
-3. Host model on AWS using flask framework to display results
+1. Demonstrate capability of three-layer densely connected MLP to predict voluntary separations from federal government
+
+2. Host model with AWS elastic beanstalk using Flask framework to display results
+
+***
+
+Orginal Data: www.fedscope.opm.gov
+
+[Cleaned Data](https://www.dropbox.com/sh/gtc2wlgbtzlhqny/AACmazGrG9Bcvo2WM2L-HX5xa?dl=0)
+
+
 
 
 
